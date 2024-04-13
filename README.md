@@ -1,4 +1,4 @@
-# SwagLabs_Unittest_Selenium_Automation
+# Saucedemo_Unittest_Selenium_Automation
 
 ## Introduction
 Saucedemo (https://www.saucedemo.com/) is a specific site to be able to practice automated testing.
